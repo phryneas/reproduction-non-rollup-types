@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-typescript": "^7.6.0",
+    "babel-loader": "^8.0.6",
+    "file-loader": "^4.2.0",
+    "redux-starter-kit": "^0.8.1",
+    "typescript": "^3.6.4",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  },
+  "scripts": {
+    "watch": "webpack --watch --mode development"
+  }
+}
